@@ -2,9 +2,12 @@
 
 ✌️**Currently learning different modules to become an AI & ML engineer**
 
-🎓 **Student at KIIT , CSE(AI & ML)**  
-📍 **Based in Bhubhaneshwar , Odisha , India**
-💻 **Passionate about programming, open-source, and continuous learning**
+🎓**Student at KIIT , CSE(AI & ML)**  
+
+📍**Based in Bhubhaneshwar , Odisha , India**
+
+💻**Passionate about programming, open-source, and continuous learning**
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dhritiman_2510) 
 
