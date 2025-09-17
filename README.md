@@ -16,7 +16,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhritiman2510&theme=dark&hide_border=false&include_all_commits=true&count_private=true)&emsp;&emsp;&emsp;&emsp;![](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhritiman2510&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritiman2510&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
